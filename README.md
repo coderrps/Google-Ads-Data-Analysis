@@ -5,5 +5,5 @@
 
 ![image](https://github.com/coderrps/Google-Ads-Data-Analysis/assets/77949729/4dbdd8cc-b658-4a40-b741-5078cf84fc95)
 
-![image](https://github.com/coderrps/Google-Ads-Data-Analysis/assets/77949729/de04a021-6163-4274-b765-ec80c04b7198)
+![image](https://github.com/coderrps/Google-Ads-Data-Analysis/assets/77949729/f52f3a0c-2f4b-4697-bac6-3c85ed17aed2)
 
