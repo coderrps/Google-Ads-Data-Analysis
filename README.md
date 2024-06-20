@@ -7,8 +7,6 @@
 
 
 
-Based on the metrics and insights gathered from the various pivot tables provided, here is a comprehensive summary of recommendations and insights for optimizing the digital marketing campaigns:
-
 ### 1. Click-Through Rate (CTR) Analysis:
 - **Insights:**
   - **DSA - General Yoga** has the highest CTR, indicating strong engagement and relevance.
